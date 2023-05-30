@@ -17,9 +17,9 @@ This repository contains the list of publications in the Cascella Group since 20
     Publication doi: [🔗](https://doi.org/10.1016/j.jcis.2023.05.057)    
     Data Archive doi: [🔗](https://doi.org/10.11582/2023.00026)  
    
-1.  **On the equivalence of the hybrid particle-field and Gaussian core models**
+1.  **On the equivalence of the hybrid particle-field and Gaussian core models**     
     Morten Ledum, Samiran Sen, Sigbjørn Løland Bore, Michele Cascella  
-    *Journal of Chemical Physics* 2023, *158*, 145142.
+    *Journal of Chemical Physics* 2023, *158*, 145142.  
     Publication doi: [🔗](https://doi.org/10.1063/5.0145142)
 
 1.  **HylleraasMD: A domain decomposition-based hybrid particle-field software for multi-scale simulations of soft matter**  
