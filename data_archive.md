@@ -19,14 +19,4 @@ This is not a step-by-step guide, so please read through it before you start the
    _It's just like submitting a manuscript for publication. But you can also upload a new dataset if you have messed up something and delete the incorrect one, so it is not as worrying. However, since datasets are large, try to get it right on the first go. Just data storage is responsible for a whopping 2% of global carbon emissions._  
 9) After submission, once again, it has to be manually approved to obtain a `doi`.  
    _If you don't get a response in 2 business days, please do not wait longer. Send an email to the manager at [archive.manager@nris.no](mailto:archive.manager@nris.no)_ 
-10) List your publication and data archive link in the [`README.md`](README.md) of this repository. If you do not have access, please send an email to [samiransen23@gmail.com](mailto:samiransen23@gmail.com) with the relevant details as in the following example:  
-       ```
-       Title: Soft Matter under Pressure: Pushing Particle-Field Molecular Dynamics to the Isobaric Ensemble  
-       Authors: Samiran Sen, Morten Ledum, Sigbjørn Løland Bore, Michele Cascella  
-       Journal: Journal of Chemical Information and Modeling (JCIM)  
-       Publication date: March, 2023  
-       Publication doi: 10.1021/acs.jcim.3c00186  
-       Publication link [🔗](https://doi.org/10.1021/acs.jcim.3c00186)  
-       Data Archive doi: 10.11582/2023.00019  
-       Data Archive link [🔗](https://doi.org/10.11582/2023.00019)  
-       ```
+10) List your publication and data archive link in the [`README.md`](README.md) of this repository. If you do not have access, please send an email to [samiransen23@gmail.com](mailto:samiransen23@gmail.com) with the relevant details as in a publication item in [`README.md`](README.md)
