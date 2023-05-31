@@ -13,8 +13,9 @@ This is not a step-by-step guide, so please read through it before you start the
 5) After approval, it's quite straightforward and explanatory, but there is a step-by-step guide here: [🔗](https://archive.norstore.no/pages/public/userguide.jsf)
 6) At one point, you need to choose a license for your data. The very page gives a brief description of each license available, but if you are not sure which one to choose, consult your supervisor.  
    _It is important to be correct here. For example, `Creative Commons Attribution-NonCommercial 4.0 International license` means anyone can copy, redistribute and transform your data + must give credit + provide link to license + indicate changes + cannot use for commercial purposes._
-7) Please upload your dataset as one single `tar` or `zip` file and give it a name with the pattern: `<journal>-<year of publication>-<brief name>`.  
+7) Please upload your dataset as one single `zip` file and give it a name with the pattern: `<journal>-<year of publication>-<brief name>`.  
    _For example, the data corresponding to one of the Cascella group's publications ([🔗](https://archive.sigma2.no/pages/public/datasetDetail.jsf?id=10.11582/2023.00019))_ is called `JCIM-2023-Pressure-MD-data`.  
+   _Note that `zip` is preferred to `tar` probably due to technical issues with unwrapping the file._
 8) You cannot change your data after you click `Submit Dataset`.  
    _It's just like submitting a manuscript for publication. But you can also upload a new dataset if you have messed up something and delete the incorrect one, so it is not as worrying. However, since datasets are large, try to get it right on the first go. Just data storage is responsible for a whopping 2% of global carbon emissions._  
 9) After submission, once again, it has to be manually approved to obtain a `doi`.  
