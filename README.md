@@ -12,7 +12,7 @@ This repository contains the list of publications in the Cascella Group since 20
     Data Archive doi: [🔗]() 
    
 1.  **Micelle kinetics of photoswitchable surfactants: self-assembly pathways and relaxation mechanisms**      
-    Victoria Ariel Bjørnestad, Xinmeng Li, Christope Tribet, Reidar Lund, Michele Cascella   
+    Victoria Ariel Bjørnestad, Xinmeng Li, Christophe Tribet, Reidar Lund, Michele Cascella   
     *Journal of Colloid and Interface Science* 2023, *646*, 883-899.    
     Publication doi: [🔗](https://doi.org/10.1016/j.jcis.2023.05.057)    
     Data Archive doi: [🔗](https://doi.org/10.11582/2023.00026)  
@@ -39,12 +39,12 @@ This repository contains the list of publications in the Cascella Group since 20
     Data Archive doi: [🔗](https://doi.org/10.11582/2023.00019)
    
 1.  **Solid-state 19F NMR chemical shift in square-planar nickel-fluoride complexes linked by halogen bonds**    
-    A. C. Castro, M. Cascella, R. Perutz, C. Reynaud, O. Eisenstein  
+    Abril C. Castro, Michele Cascella, Robin Perutz, Christophe Reynaud, Odile Eisenstein  
     *Inorganic Chemistry* 2023, *62*, 4835–4846.   
     Publication doi: [🔗](https://doi.org/10.1021/acs.inorgchem.2c04063)
    
 1.  **What drives chorismate mutase to top performance? Insights from a combined in silico and in vitro study**  
-    H. V. Thorbjørnsrud, L. Bressan, T. Khatanbaatar, M. Carrer, K. Würth-Roderer, G. Cordara, P. Kast, M. Cascella, U. Krengel  
+    Helen V. Thorbjørnsrud, Luca Bressan, Tamjidmaa Khatanbaatar, Manuel Carrer, Kathrin Würth-Roderer, Gabriele Cordara, Peter Kast, Michele Cascella, Ute Krengel  
     *Biochemistry* 2023, *62*, 782–296.   
     Publication doi: [🔗](https://doi.org/10.1021/acs.biochem.2c00635)
   
