@@ -9,7 +9,7 @@ This repository contains the list of publications in the Cascella Group since 20
     Dario Segura-Peña, Oda Hovet, Hemanga Gogoi, Jennine Dawicki-McKenna, Stine Malene Hansen Wøien, Manuel Carrer, Ben E Black, Michele  Cascella, Nikolina Sekulic   
     *eLife*, in press    
     Publication doi: [🔗](https://doi.org/10.7554/eLife.85328)     
-    Data Archive doi: [🔗]() 
+    Data Archive doi: [🔗](https://doi.org/10.11582/2023.00028) 
    
 1.  **Micelle kinetics of photoswitchable surfactants: self-assembly pathways and relaxation mechanisms**      
     Victoria Ariel Bjørnestad, Xinmeng Li, Christophe Tribet, Reidar Lund, Michele Cascella   
