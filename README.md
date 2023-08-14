@@ -5,9 +5,21 @@ This repository contains the list of publications in the Cascella Group since 20
 
 ## 2023 
 
+1.  **SANS Spectra with PLUMED: Implementation and Application to Metainference**   
+    Henrique M. Cezar, Michele Cascella   
+    *Journal of Chemical Information and Modeling*, in press    
+    Publication doi: [🔗](https://doi.org/10.1021/acs.jcim.3c00724)     
+    Data Archive doi: [🔗](https://doi.org/10.11582/2023.00057)
+
+1.  **Accelerating Lipid Flip-Flop at Low Concentrations: A General Mechanism for Membrane Binding Peptides**     
+    Manuel Carrer, Josefine Eilsø Nielsen, Henrique Musseli Cezar, Reidar Lund, Michele Cascella, Thereza A. Soares    
+    *Journal of Physical Chemistry Letters* 2023, *14*, 7014-7019.  
+    Publication doi: [🔗](https://doi.org/10.1021/acs.jpclett.3c01284)    
+    Data Archive doi: [🔗](https://doi.org/10.11582/2023.)
+
 1.  **The structural basis of the multi-step allosteric activation of Aurora B kinase**   
     Dario Segura-Peña, Oda Hovet, Hemanga Gogoi, Jennine Dawicki-McKenna, Stine Malene Hansen Wøien, Manuel Carrer, Ben E Black, Michele  Cascella, Nikolina Sekulic   
-    *eLife*, in press    
+    *eLife* 2023, *12*, e85328.    
     Publication doi: [🔗](https://doi.org/10.7554/eLife.85328)     
     Data Archive doi: [🔗](https://doi.org/10.11582/2023.00028) 
    
