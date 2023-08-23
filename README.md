@@ -5,6 +5,12 @@ This repository contains the list of publications in the Cascella Group since 20
 
 ## 2023 
 
+1.  **Morphological Plasticity of LiCl Clusters Interacting with Grignard Reagent in Tetrahydrofuran**  
+    Marinella de Giovanetti, Sondre H. Hopen Eliasson, Abril C. Castro, Odile Eisenstein, Michele Cascella  
+    *Journal of the American Chemical Society* 2023, 145, 16305–16309.  
+    Publication doi: [🔗](https://doi.org/10.1021/jacs.3c04238)  
+    Data Archive doi: [🔗](10.11582/2023.00073) 
+
 1.  **SANS Spectra with PLUMED: Implementation and Application to Metainference**   
     Henrique M. Cezar, Michele Cascella   
     *Journal of Chemical Information and Modeling*, in press    
