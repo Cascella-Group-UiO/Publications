@@ -13,7 +13,7 @@ This repository contains the list of publications in the Cascella Group since 20
 
 1.  **SANS Spectra with PLUMED: Implementation and Application to Metainference**   
     Henrique M. Cezar, Michele Cascella   
-    *Journal of Chemical Information and Modeling*, in press    
+    *Journal of Chemical Information and Modeling* 2023, *63*, 4979-4985.  
     Publication doi: [🔗](https://doi.org/10.1021/acs.jcim.3c00724)     
     Data Archive doi: [🔗](https://doi.org/10.11582/2023.00057)
 
