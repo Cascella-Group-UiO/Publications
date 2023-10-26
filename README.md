@@ -21,7 +21,7 @@ This repository contains the list of publications in the Cascella Group since 20
     Manuel Carrer, Josefine Eilsø Nielsen, Henrique Musseli Cezar, Reidar Lund, Michele Cascella, Thereza A. Soares    
     *Journal of Physical Chemistry Letters* 2023, *14*, 7014-7019.  
     Publication doi: [🔗](https://doi.org/10.1021/acs.jpclett.3c01284)    
-    Data Archive doi: [🔗](https://doi.org/10.11582/2023.)
+    Data Archive doi: [🔗](https://doi.org/10.11582/2023.00125)
 
 1.  **The structural basis of the multi-step allosteric activation of Aurora B kinase**   
     Dario Segura-Peña, Oda Hovet, Hemanga Gogoi, Jennine Dawicki-McKenna, Stine Malene Hansen Wøien, Manuel Carrer, Ben E Black, Michele  Cascella, Nikolina Sekulic   
