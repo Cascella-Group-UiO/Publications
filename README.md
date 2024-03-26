@@ -3,6 +3,14 @@
 
 This repository contains the list of publications in the Cascella Group since 2023 and links to the corresponding archives of raw data.  
 
+## 2024
+
+1.  **Learning Force Field Parameters from Differentiable Particle-Field Molecular Dynamics**     
+    Manuel Carrer, Henrique Musseli Cezar, Sigbjørn Løland Bore, Morten Ledum, Michele Cascella  
+    *ChemRxiv* 2024, preprint.  
+    Publication doi: [🔗](https://doi.org/10.26434/chemrxiv-2024-js244)    
+    Data Archive doi: [🔗](https://doi.org/10.11582/2024.00064)
+    
 ## 2023 
 
 1.  **Morphological Plasticity of LiCl Clusters Interacting with Grignard Reagent in Tetrahydrofuran**  
