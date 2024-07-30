@@ -6,7 +6,7 @@ This repository contains the list of publications in the Cascella Group since 20
 ## 2024
 1.  **Morphology of Lithium Halides in Tetrahydrofuran from Molecular Dynamics with Machine Learning Potentials**  
     Marinella de Giovanetti, Sondre H. Hopen Eliasson, Sigbjørn Løland Bore, Odile Eisenstein, Michele Cascella  
-    *ChemRxiv* 2024, preprint.
+    *ChemRxiv* 2024, preprint.  
     Publication doi: [🔗](https://doi.org/10.26434/chemrxiv-2024-mxjqn)  
     Data Archive doi: [🔗](https://doi.org/10.11582/2024.00123)
 
