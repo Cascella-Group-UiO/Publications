@@ -4,14 +4,22 @@
 This repository contains the list of publications in the Cascella Group since 2023 and links to the corresponding archives of raw data.  
 
 ## 2024
-1.  **Morphology of Lithium Halides in Tetrahydrofuran from Molecular Dynamics with Machine Learning Potentials**  
+1.  **Phase coexistence in Hamiltonian hybrid particle-field theory using a Multi-Gaussian approach**  
+    Samiran Sen, Henrique Musseli Cezar Author, Morten Ledum, Xinmeng Li, Michele Cascella  
+    *ChemRxiv* 2024, preprint.  
+    Publication doi: [🔗](https://doi.org/10.26434/chemrxiv-2024-cm4xr)  
+    Data Archive doi: [🔗](https://doi.org/10.11582/2024.00127)
+
+
+
+2.  **Morphology of Lithium Halides in Tetrahydrofuran from Molecular Dynamics with Machine Learning Potentials**  
     Marinella de Giovanetti, Sondre H. Hopen Eliasson, Sigbjørn Løland Bore, Odile Eisenstein, Michele Cascella  
     *ChemRxiv* 2024, preprint.  
     Publication doi: [🔗](https://doi.org/10.26434/chemrxiv-2024-mxjqn)  
     Data Archive doi: [🔗](https://doi.org/10.11582/2024.00123)
 
 
-2.  **Learning Force Field Parameters from Differentiable Particle-Field Molecular Dynamics**     
+3.  **Learning Force Field Parameters from Differentiable Particle-Field Molecular Dynamics**     
     Manuel Carrer, Henrique Musseli Cezar, Sigbjørn Løland Bore, Morten Ledum, Michele Cascella  
     *ChemRxiv* 2024, preprint.  
     Publication doi: [🔗](https://doi.org/10.26434/chemrxiv-2024-js244)    
