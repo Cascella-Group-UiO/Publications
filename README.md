@@ -6,16 +6,16 @@ This repository contains the list of publications in the Cascella Group since 20
 ## 2024
 1.  **Phase coexistence in Hamiltonian hybrid particle-field theory using a Multi-Gaussian approach**  
     Samiran Sen, Henrique Musseli Cezar Author, Morten Ledum, Xinmeng Li, Michele Cascella  
-    *ChemRxiv* 2024, preprint.  
-    Publication doi: [🔗](https://doi.org/10.26434/chemrxiv-2024-cm4xr)  
+    *The Journal of Physical Chemistry B* 2024.
+    Publication doi: [🔗](https://pubs.acs.org/doi/10.1021/acs.jpcb.4c05525)  
     Data Archive doi: [🔗](https://doi.org/10.11582/2024.00127)
 
 
 
 2.  **Morphology of Lithium Halides in Tetrahydrofuran from Molecular Dynamics with Machine Learning Potentials**  
     Marinella de Giovanetti, Sondre H. Hopen Eliasson, Sigbjørn Løland Bore, Odile Eisenstein, Michele Cascella  
-    *ChemRxiv* 2024, preprint.  
-    Publication doi: [🔗](https://doi.org/10.26434/chemrxiv-2024-mxjqn)  
+    *Chemical Science* 2024.  
+    Publication doi: [🔗](https://doi.org/10.1039/D4SC04957H)  
     Data Archive doi: [🔗](https://doi.org/10.11582/2024.00123)
 
 
