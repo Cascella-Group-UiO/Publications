@@ -6,7 +6,7 @@ This repository contains the list of publications in the Cascella Group since 20
 ## 2024
 1.  **Phase coexistence in Hamiltonian hybrid particle-field theory using a Multi-Gaussian approach**  
     Samiran Sen, Henrique Musseli Cezar Author, Morten Ledum, Xinmeng Li, Michele Cascella  
-    *The Journal of Physical Chemistry B* 2024.
+    *The Journal of Physical Chemistry B* 2024.  
     Publication doi: [🔗](https://pubs.acs.org/doi/10.1021/acs.jpcb.4c05525)  
     Data Archive doi: [🔗](https://doi.org/10.11582/2024.00127)
 
